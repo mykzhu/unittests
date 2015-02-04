@@ -1,0 +1,19 @@
+﻿Build started 2/4/2015 5:13:17 PM.
+     1>Project "C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\testProj2010\testProj2010.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\testProj2010.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\Debug\testProj2010.lib" /NOLOGO Debug\main.obj
+         Debug\model.obj
+         Debug\tgaimage.obj
+         testProj2010.vcxproj -> C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\Debug\testProj2010.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\testProj2010.unsuccessfulbuild".
+         Touching "Debug\testProj2010.lastbuildstate".
+     1>Done Building Project "C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\testProj2010\testProj2010.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.67

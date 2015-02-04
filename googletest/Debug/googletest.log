@@ -1,0 +1,21 @@
+﻿Build started 2/4/2015 5:07:03 PM.
+     1>Project "C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\googletest\googletest.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\googletest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\gtest\gtest-1.7.0\src\gtest-all.cc" "..\..\gtest\gtest-1.7.0\src\gtest_main.cc"
+         gtest_main.cc
+         gtest-all.cc
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\Debug\googletest.lib" /NOLOGO "Debug\gtest-all.obj"
+         Debug\gtest_main.obj
+         googletest.vcxproj -> C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\Debug\googletest.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\googletest.unsuccessfulbuild".
+         Touching "Debug\googletest.lastbuildstate".
+     1>Done Building Project "C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\googletest\googletest.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.88

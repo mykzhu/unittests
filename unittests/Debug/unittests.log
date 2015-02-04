@@ -1,0 +1,22 @@
+﻿Build started 2/4/2015 5:13:18 PM.
+     1>Project "C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\unittests\unittests.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\unittests.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\Debug\unittests.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\testProj2010\Debug" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\unittests.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\Debug\unittests.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\Debug\unittests.lib" /MACHINE:X86 Debug\unittests.obj
+         "C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\Debug\googletest.lib"
+         "C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\Debug\testProj2010.lib"
+     1>unittests.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         unittests.vcxproj -> C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\Debug\unittests.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\Debug\unittests.exe;#1" /manifest Debug\unittests.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\unittests.unsuccessfulbuild".
+         Touching "Debug\unittests.lastbuildstate".
+     1>Done Building Project "C:\Users\mykola.zhuravel\Google Drive\sync\study\testProj2010\unittests\unittests.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.88
